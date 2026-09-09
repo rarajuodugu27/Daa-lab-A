@@ -56,8 +56,8 @@ The program demonstrates how Min-Heap and Max-Heap can be used to efficiently so
 # SUMMARY OF PRACT-4: 
 In this practical, we learned how to find the factorial of a number using two different methods: iterative and recursive. In the iterative method, we use a loop to multiply the numbers from 1 to the given number. In the recursive method, the function calls itself with a smaller value until it reaches the base condition. Both methods give the same factorial result, but they work in different ways. CONCLUSION: From this practical, we understood the difference between iterative and recursive approaches for solving a problem. Both methods are useful for calculating factorials, and this practical helped us understand how loops and recursion can be used to solve the same problem. CONCLUSION: From this practical, we understood the difference between iterative and recursive approaches for solving a problem. Both methods ar
 
-SUMMARY OF PRACT-5:
-Knapsack Problem
+SUMMARY OF PRACT-5: Knapsack Problem
+
 This project is a Python program that solves the 0/1 Knapsack Problem using Dynamic Programming. The program takes the number of items, their weights, values, and the maximum capacity of the knapsack as input. It then finds the maximum value that can be carried without exceeding the given capacity. The program also displays the selected items and the execution time. This project is simple and useful for understanding the basic concept of Dynamic Programming in Python.
 
 How to Run
@@ -72,8 +72,8 @@ Conclusion
 
 This project demonstrates how Dynamic Programming can be used to solve the 0/1 Knapsack Problem. It helps in finding the best combination of items while keeping the total weight within the given capacity. The project is simple and helpful for learning Python and Dynamic Programming.
 
-SUMMARY OF PRACT-7:
-Coin Change Problem using Dynamic Programming
+SUMMARY OF PRACT-7: Coin Change Problem using Dynamic Programming
+
 This project is a Python program that solves the Coin Change Problem using Dynamic Programming. The program takes the number of coins, the value of each coin, and the required amount as input. It finds the minimum number of coins needed to make the given amount. If the amount cannot be made using the given coins, the program returns -1. For example, if the coins are 1, 2, and 5 and the amount is 15, the minimum number of coins required is 3. The time complexity of the program is O(n * amount) and the space complexity is O(amount). This project is simple and useful for understanding Dynamic Programming in Python.
 
 How to Run
