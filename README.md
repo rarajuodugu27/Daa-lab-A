@@ -89,3 +89,19 @@ Conclusion
 
 This project demonstrates how Dynamic Programming can be used to solve the 0/1 Knapsack Problem. It helps in finding the best combination of items while keeping the total weight within the given capacity. The project is simple and helpful for learning Python and Dynamic Programming.
 
+# Practical 6: Chain Matrix Multiplication
+
+## Aim
+To implement Chain Matrix Multiplication using Dynamic Programming in Python.
+
+##  Summary
+- Chain Matrix Multiplication is an optimization problem.
+- Dynamic Programming is used to find the optimal multiplication order.
+- The program accepts matrix dimensions as **user input**.
+- It calculates the **minimum number of scalar multiplications**.
+- Intermediate results are stored in a DP table.
+- The program also measures the **execution time**.
+- **Time Complexity:** `O(n³)`
+- **Space Complexity:** `O(n²)`
+- The implementation is written in **Python**.
+- The practical demonstrates the application of Dynamic Programming for optimization.
