@@ -109,6 +109,7 @@ To implement Chain Matrix Multiplication using Dynamic Programming in Python.
 
 
 ##practical 8:Implementation of Graph and Searching (DFS and BFS)
+
 SUMMARY
 
 Graph traversal is an important technique used to visit all the vertices of a graph systematically. DFS explores a graph deeply by visiting a vertex and then recursively visiting its unvisited neighbors. BFS explores the graph level by level using a queue data structure. Both DFS and BFS have a time complexity of O(V + E), where V is the number of vertices and E is the number of edges. These searching techniques are widely used in path finding, network analysis, and many other computer science applications.
