@@ -73,7 +73,7 @@ This project demonstrates how Dynamic Programming can be used to solve the Coin 
 
 
 
-SUMMARY OF PRACT-5: Knapsack Problem
+##SUMMARY OF PRACT-5: Knapsack Problem
 
 This project is a Python program that solves the 0/1 Knapsack Problem using Dynamic Programming. The program takes the number of items, their weights, values, and the maximum capacity of the knapsack as input. It then finds the maximum value that can be carried without exceeding the given capacity. The program also displays the selected items and the execution time. This project is simple and useful for understanding the basic concept of Dynamic Programming in Python.
 
@@ -108,7 +108,7 @@ To implement Chain Matrix Multiplication using Dynamic Programming in Python.
 
 
 
-practical 8:Implementation of Graph and Searching (DFS and BFS)
+##practical 8:Implementation of Graph and Searching (DFS and BFS)
 SUMMARY
 
 Graph traversal is an important technique used to visit all the vertices of a graph systematically. DFS explores a graph deeply by visiting a vertex and then recursively visiting its unvisited neighbors. BFS explores the graph level by level using a queue data structure. Both DFS and BFS have a time complexity of O(V + E), where V is the number of vertices and E is the number of edges. These searching techniques are widely used in path finding, network analysis, and many other computer science applications.
