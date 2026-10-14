@@ -119,7 +119,9 @@ CONCLUSION :
 The graph traversal program successfully implements both DFS and BFS searching techniques using Python. DFS uses a depth-based approach, while BFS visits vertices level by level. Both methods efficiently traverse the vertices and edges of a graph. The program accepts user input, making it flexible for different graph structures and starting vertices. Thus, DFS and BFS are useful and fundamental techniques for solving various graph-based problems.
 
 practical-9 PRIM's Algorithm
+
 Prim's Algorithm is a greedy algorithm used to find the Minimum Spanning Tree (MST) of a connected, weighted, undirected graph. It starts with an arbitrary vertex and repeatedly selects the minimum-weight edge that connects a visited vertex to an unvisited vertex without forming a cycle. This process continues until all vertices are included in the spanning tree, resulting in the minimum total edge weight. Prim's Algorithm is widely used in network design and optimization problems.
 
 practical-10 KRUSKAL's Algorithm
+
 Kruskal's Algorithm is a greedy algorithm used to find the Minimum Spanning Tree (MST) of a weighted, undirected graph. It works by sorting all edges in ascending order of their weights and selecting the smallest edges one by one, ensuring that no cycle is formed. The process continues until the spanning tree contains exactly (V-1) edges, where (V) is the number of vertices. Kruskal's Algorithm is useful in network design and optimization problems where minimizing the total connection cost is important.
