@@ -58,7 +58,7 @@ In this practical, we learned how to find the factorial of a number using two di
 
 
 
-SUMMARY OF PRACT-7: Coin Change Problem using Dynamic Programming
+# SUMMARY OF PRACT-7: Coin Change Problem using Dynamic Programming
 
 This project is a Python program that solves the Coin Change Problem using Dynamic Programming. The program takes the number of coins, the value of each coin, and the required amount as input. It finds the minimum number of coins needed to make the given amount. If the amount cannot be made using the given coins, the program returns -1. For example, if the coins are 1, 2, and 5 and the amount is 15, the minimum number of coins required is 3. The time complexity of the program is O(n * amount) and the space complexity is O(amount). This project is simple and useful for understanding Dynamic Programming in Python.
 
@@ -73,7 +73,7 @@ This project demonstrates how Dynamic Programming can be used to solve the Coin 
 
 
 
-##SUMMARY OF PRACT-5: Knapsack Problem
+# SUMMARY OF PRACT-5: Knapsack Problem
 
 This project is a Python program that solves the 0/1 Knapsack Problem using Dynamic Programming. The program takes the number of items, their weights, values, and the maximum capacity of the knapsack as input. It then finds the maximum value that can be carried without exceeding the given capacity. The program also displays the selected items and the execution time. This project is simple and useful for understanding the basic concept of Dynamic Programming in Python.
 
